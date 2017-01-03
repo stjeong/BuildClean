@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ED3ADDCE-2C7B-4B70-97B4-66EFA712CA85}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		LICENSE = LICENSE
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "BuildClean", "src\BuildClean\BuildClean.xproj", "{69A6806C-C7E4-41FC-ABA3-2453406B1C4A}"
