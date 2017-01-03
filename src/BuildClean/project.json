@@ -1,0 +1,32 @@
+{
+    "version": "1.0.0-*",
+    "title": "BuildClean",
+    "description": "A dotnet CLI tool for cleaning projects.",
+    "authors": [
+        "stjeong"
+    ],
+    "packOptions": {
+        "projectUrl": "https://github.com/stjeong/BuildClean",
+        "licenseUrl": "https://github.com/stjeong/BuildClean/blob/master/License.md"
+
+    },
+    "copyright": "Copyright (C) stjeong 2017",
+    "buildOptions": {
+        "debugType": "portable",
+        "emitEntryPoint": true,
+        "outputName": "dotnet-clean"
+    },
+
+    "dependencies": {
+        "Microsoft.NETCore.App": {
+            "type": "platform",
+            "version": "1.0.0"
+        }
+    },
+
+    "frameworks": {
+        "netcoreapp1.0": {
+            "imports": "dnxcore50"
+        }
+    }
+}
