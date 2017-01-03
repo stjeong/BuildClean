@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0-*",
+    "version": "1.0.1-*",
     "title": "BuildClean",
     "description": "A dotnet CLI tool for cleaning projects.",
     "authors": [
