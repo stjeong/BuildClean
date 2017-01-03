@@ -7,7 +7,7 @@
     ],
     "packOptions": {
         "projectUrl": "https://github.com/stjeong/BuildClean",
-        "licenseUrl": "https://github.com/stjeong/BuildClean/blob/master/License.md"
+        "licenseUrl": "https://github.com/stjeong/BuildClean/blob/master/LICENSE"
 
     },
     "copyright": "Copyright (C) stjeong 2017",
